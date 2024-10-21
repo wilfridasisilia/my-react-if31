@@ -1,0 +1,18 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\npm-global\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.0
+2 info using node@v20.11.0
+3 silly config load:file:C:\npm-global\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\user\pw2if31\latihan-react-wilfridasisilia\latihan-api\.npmrc
+5 silly config load:file:C:\Users\user\.npmrc
+6 silly config load:file:C:\npm-global\etc\npmrc
+7 verbose title npm tun server
+8 verbose argv "tun" "server"
+9 verbose logfile logs-max:10 dir:C:\Users\user\pw2if31\latihan-react-wilfridasisilia\latihan-api\UsersuserAppDataRoamingnpm-cache\_logs\2024-10-15T03_40_08_950Z-
+10 verbose logfile C:\Users\user\pw2if31\latihan-react-wilfridasisilia\latihan-api\UsersuserAppDataRoamingnpm-cache\_logs\2024-10-15T03_40_08_950Z-debug-0.log
+11 silly logfile start cleaning logs, removing 2 files
+12 verbose cwd C:\Users\user\pw2if31\latihan-react-wilfridasisilia\latihan-api
+13 verbose os Windows_NT 10.0.22631
+14 verbose node v20.11.0
+15 verbose npm  v10.9.0
+16 verbose exit 1
+17 verbose code 1
